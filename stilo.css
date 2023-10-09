@@ -1,0 +1,14 @@
+h1{
+    left: 300px;
+    border: solid 3px violet;
+    content: center;
+    border-left: 15%;
+    margin-left: 15%;
+    margin-right: 50%;
+    padding-left: 7%;
+}
+h2{
+    left: 50px;
+    border: solid 3px blue;
+
+}
